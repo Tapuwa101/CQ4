@@ -1,2 +1,1 @@
-# CQ4
-CSSI160- CQ4
+time complexity of camel case is O(n)
